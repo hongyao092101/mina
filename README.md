@@ -1,0 +1,2 @@
+# mina
+less the loss
